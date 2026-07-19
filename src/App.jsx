@@ -1,9 +1,9 @@
 import "./App.css";
 
-import Vives_Cruz_Ashley_EjercicioClase09_Monolitico from "./Vives_Cruz_Ashley_EjercicioClase09_antes/Vives_Cruz_Ashley_EjercicioClase09_Monolitico";
+import Vives_Cruz_Ashley_EjercicioClase09_Refactorizado from "./Vives_Cruz_Ashley_EjercicioClase09_Refactorizado";
 
 function App() {
-  return <Vives_Cruz_Ashley_EjercicioClase09_Monolitico />;
+  return <Vives_Cruz_Ashley_EjercicioClase09_Refactorizado />;
 }
 
 export default App;
